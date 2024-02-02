@@ -1,0 +1,9 @@
+pylint
+pytest
+pandas
+boto3
+python-dotenv
+sqlalchemy
+pymssql
+fsspec
+s3fs
