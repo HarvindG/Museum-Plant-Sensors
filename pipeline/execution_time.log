@@ -1,0 +1,40 @@
+DEBUG:root:2023-12-21 10:09:55.577791: Time taken to extract data: 56.55803084373474 seconds
+DEBUG:root:2023-12-21 10:09:56.360378: Time taken to transform data: 1703153339.8023462 seconds
+DEBUG:root:2023-12-21 10:10:03.796737:Time taken to load data: 7.436349868774414 seconds
+DEBUG:root:2023-12-21 10:10:03.797244:Total execution time: 64.77750086784363 seconds
+DEBUG:root:2023-12-21 10:13:35.165444: Initializing pipeline: 1703153615.165442 seconds
+DEBUG:root:2023-12-21 10:14:25.035163: Time taken to extract data: 49.869683027267456 seconds
+DEBUG:root:2023-12-21 10:14:25.842281: Time taken to transform data: 1703153615.972596 seconds
+DEBUG:root:2023-12-21 10:14:34.022515:Time taken to load data: 8.180147886276245 seconds
+DEBUG:root:2023-12-21 10:14:34.023725:Total execution time: 58.858278036117554 seconds
+DEBUG:root:2023-12-21 10:15:08.644545: Initializing pipeline
+DEBUG:root:2023-12-21 10:16:07.097484: Time taken to extract data: 58.452906131744385 seconds
+DEBUG:root:2023-12-21 10:16:07.896509: Time taken to transform data: 1703153709.4436018 seconds
+DEBUG:root:2023-12-21 10:16:14.122076: Time taken to load data: 6.225503921508789 seconds
+DEBUG:root:2023-12-21 10:16:14.122851: Total execution time: 65.47830414772034 seconds
+DEBUG:root:2023-12-21 11:16:46.733750: Initializing pipeline
+DEBUG:root:2023-12-21 11:16:59.610373: Time taken to extract data: 12.876612186431885 seconds
+DEBUG:root:2023-12-21 11:17:00.325803: Time taken to transform data: 1703157407.4491887 seconds
+DEBUG:root:2023-12-21 11:17:11.174364: Time taken to load data: 10.848551988601685 seconds
+DEBUG:root:2023-12-21 11:17:11.176686: Total execution time: 24.442934036254883 seconds
+DEBUG:root:2023-12-21 11:17:31.182064: Initializing pipeline
+DEBUG:root:2023-12-21 11:17:43.495573: Time taken to extract data: 12.313586950302124 seconds
+DEBUG:root:2023-12-21 11:17:44.170898: Time taken to transform data: 1703157451.85731 seconds
+DEBUG:root:2023-12-21 11:17:55.767835: Time taken to load data: 11.596897840499878 seconds
+DEBUG:root:2023-12-21 11:17:55.768503: Total execution time: 24.58652400970459 seconds
+DEBUG:root:2023-12-21 11:18:15.772264: Initializing pipeline
+DEBUG:root:2023-12-21 11:18:32.073029: Time taken to extract data: 16.300886631011963 seconds
+DEBUG:root:2023-12-21 11:18:32.731715: Time taken to transform data: 1703157496.4308274 seconds
+DEBUG:root:2023-12-21 11:18:45.160689: Time taken to load data: 12.428926944732666 seconds
+DEBUG:root:2023-12-21 11:18:45.161550: Total execution time: 29.389413833618164 seconds
+DEBUG:root:2023-12-21 11:19:05.167487: Initializing pipeline
+DEBUG:root:2023-12-21 11:21:32.483437: Initializing pipeline
+DEBUG:root:2023-12-21 11:21:45.858748: Time taken to extract data: 13.375295162200928 seconds
+DEBUG:root:2023-12-21 11:21:46.705291: Time taken to transform data: 1703157693.3299937 seconds
+DEBUG:root:2023-12-21 11:21:59.135841: Time taken to load data: 12.430449962615967 seconds
+DEBUG:root:2023-12-21 11:21:59.137489: Total execution time: 26.654051065444946 seconds
+DEBUG:root:2023-12-21 11:22:19.142978: Initializing pipeline
+DEBUG:root:2023-12-21 11:22:36.102954: Time taken to extract data: 16.960400104522705 seconds
+DEBUG:root:2023-12-21 11:22:36.944793: Time taken to transform data: 1703157739.984392 seconds
+DEBUG:root:2023-12-21 11:22:48.287972: Time taken to load data: 11.343170881271362 seconds
+DEBUG:root:2023-12-21 11:22:48.288363: Total execution time: 29.14580988883972 seconds

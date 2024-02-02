@@ -1,0 +1,14 @@
+pylint
+pytest
+requests
+pandas
+sqlalchemy
+boto3
+python-dotenv
+country_converter
+python-dotenv
+pymssql
+boto3
+python-dotenv
+country_converter
+pymssql
